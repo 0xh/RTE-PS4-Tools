@@ -5,4 +5,4 @@ Credits:
 
 MarentDev for port into Swift langage
 
-Theorywrong, DEv_ShOoTz, MsKx and some user people (CTurt...)
+Theorywrong, DEv_ShOoTz, MsKx and some other people (CTurt...)
